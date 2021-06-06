@@ -27,6 +27,6 @@ Assume that you input "/path/ben_", then /path/ben_0001.log, /path/ben_0002.log 
 It may take some time to load the files.
 
 3. Choose the component of ICSS plot. User can choose from isotropic, anisotropic, and 9 XYZ components 
-of magnetic sheilding tensors from the menu.
+of magnetic shielding tensors from the menu.
 4. The .cub file would be generated in the same folder as the output files.
 5. Now, you can visualize the .cub using *GaussView*, *VMD*, *ChimeraX*, etc.
