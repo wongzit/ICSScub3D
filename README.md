@@ -1,5 +1,5 @@
 # ICSScub3D
-
+![](ICSScub3D_icon_full.png)
 Developed by Zhe Wang.
 
 **Homepage** https://www.wangzhe95.net
