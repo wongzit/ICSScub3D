@@ -1,14 +1,16 @@
 # ICSScub3D
+
 ![](ICSScub3D_icon_full.png)
-Developed by Zhe Wang.
+Developed by Zhe Wang, Hiroshima University.
 
 **Homepage** https://www.wangzhe95.net
 
 ICSScub3D is the 3D version of ICSScsv. It can extract magnetic sheilding tensors from output
 files can export them into a .cube file.
 
-First pre-release is v0.6 (2021-06-06).
-
+## Update History
+### v1.0.0 (2021-06-06)
+First release of ICSScub3D, please enjoy!
 
 ## Usage
 *More detail information, please check the user manual.*
